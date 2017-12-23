@@ -1,0 +1,2 @@
+INSERT INTO GAME (StartTime, EndTime, P1,P2,P3,P4,D1,D2,D3,D4, Winner)
+Values('9999-12-31 23:59:59', '9999-12-31 23:59:59', 1,2,3,4,1,2,3,4,1);
